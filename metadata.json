@@ -1,0 +1,6 @@
+{
+  "name": "EduSphere",
+  "description": "The Ultimate Smart Campus & Micro-Economy Network for Indian Universities with academics, events, digital IDs, marketplace, and campus utilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
